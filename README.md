@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krybskytten
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krybskytten&show_icons=true&theme=radical)
 
 <!---
 Krybskytten/Krybskytten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
